@@ -8,6 +8,7 @@ Dummy repository to test basic pull requests
 Note your Pull Request will only get approved if you insert only one line to this README.
 
 Who **like** the SBCS mascot, Bytes? (List your name here).
+if anyone like then go and check it out.
 - Lise
 
 Who **DOES NOT like** the SBCS mascot, Bytes? (List your name if you want a new Bytes).
