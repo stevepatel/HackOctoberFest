@@ -13,3 +13,5 @@ if anyone like then go and check it out.
 
 Who **DOES NOT like** the SBCS mascot, Bytes? (List your name if you want a new Bytes).
 - No one
+
+Hacktoberfest pull request 
